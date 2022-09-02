@@ -5,4 +5,5 @@
 
 # how to run
 * apple chip m1
+  * open iterm-rosetta
   * python86 main.py
